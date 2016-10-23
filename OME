@@ -1,0 +1,2 @@
+// Parse the metafile
+Metafile metafile = new Metafile(new BufferedInputStream(new FileInputStream(filename)));
